@@ -1,0 +1,56 @@
+[
+  {
+    "id": "cp1",
+    "name": "Adebayo Okafor",
+    "title": "Chapter President",
+    "chapter": "United Kingdom",
+    "region": "Europe",
+    "swayUrl": "https://sway.office.com/example1",
+    "photo": ""
+  },
+  {
+    "id": "cp2",
+    "name": "Chidinma Eze",
+    "title": "Chapter President",
+    "chapter": "United States",
+    "region": "North America",
+    "swayUrl": "https://sway.office.com/example2",
+    "photo": ""
+  },
+  {
+    "id": "cp3",
+    "name": "Emeka Nwosu",
+    "title": "Chapter President",
+    "chapter": "Canada",
+    "region": "North America",
+    "swayUrl": "https://sway.office.com/example3",
+    "photo": ""
+  },
+  {
+    "id": "cp4",
+    "name": "Fatima Bello",
+    "title": "Chapter President",
+    "chapter": "Germany",
+    "region": "Europe",
+    "swayUrl": "https://sway.office.com/example4",
+    "photo": ""
+  },
+  {
+    "id": "cp5",
+    "name": "Olumide Adeyemi",
+    "title": "Chapter President",
+    "chapter": "Australia",
+    "region": "Asia-Pacific",
+    "swayUrl": "https://sway.office.com/example5",
+    "photo": ""
+  },
+  {
+    "id": "cp6",
+    "name": "Ngozi Obi",
+    "title": "Chapter President",
+    "chapter": "South Africa",
+    "region": "Africa",
+    "swayUrl": "https://sway.office.com/example6",
+    "photo": ""
+  }
+]

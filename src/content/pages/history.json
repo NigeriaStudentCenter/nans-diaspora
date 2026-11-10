@@ -1,0 +1,43 @@
+{
+  "title": "Our History",
+  "subtitle": "Four decades of representing Nigerian students across the globe.",
+  "intro": "NANS Diaspora traces its roots to the broader National Association of Nigerian Students movement, which has been a powerful force in Nigerian civic life since the 1980s. The diaspora arm was formally constituted to give a unified voice to the growing number of Nigerian students pursuing education abroad.",
+  "milestones": [
+    {
+      "id": "h1",
+      "year": "1984",
+      "title": "Foundation",
+      "description": "NANS Diaspora formally established as the international arm of the National Association of Nigerian Students, with founding chapters in the United Kingdom and the United States."
+    },
+    {
+      "id": "h2",
+      "year": "1995",
+      "title": "Continental Expansion",
+      "description": "Chapters established across Europe and North America, with the first Pan-African Diaspora Student Summit held in London."
+    },
+    {
+      "id": "h3",
+      "year": "2005",
+      "title": "Institutional Recognition",
+      "description": "NANS Diaspora formally recognised by the Nigerian Federal Government as the official representative body for Nigerian students abroad."
+    },
+    {
+      "id": "h4",
+      "year": "2015",
+      "title": "Global Growth",
+      "description": "Membership surpasses 30,000 students across 30 countries. The Homecoming & Community Development Initiative launched."
+    },
+    {
+      "id": "h5",
+      "year": "2020",
+      "title": "Digital Transformation",
+      "description": "NANS Diaspora launches its digital platform, enabling virtual chapter meetings, online elections, and global member connectivity during the COVID-19 pandemic."
+    },
+    {
+      "id": "h6",
+      "year": "2024",
+      "title": "50,000 Members",
+      "description": "NANS Diaspora reaches a milestone of 50,000 registered members across 40+ countries and 120+ chapters worldwide."
+    }
+  ]
+}

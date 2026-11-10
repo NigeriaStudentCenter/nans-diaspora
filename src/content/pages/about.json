@@ -1,0 +1,36 @@
+{
+  "hero": {
+    "title": "About NANS Diaspora",
+    "subtitle": "The official voice of Nigerian students studying abroad since 1984."
+  },
+  "mission": {
+    "label": "Our Mission",
+    "text": "To represent, advocate for, and empower Nigerian students in the diaspora — fostering academic excellence, cultural pride, and active participation in Nigeria's development."
+  },
+  "mandate": {
+    "label": "Our Mandate",
+    "items": [
+      {
+        "id": "m1",
+        "title": "Representation",
+        "description": "Serving as the official representative body for Nigerian students in all countries where chapters are established."
+      },
+      {
+        "id": "m2",
+        "title": "Advocacy",
+        "description": "Engaging governments, institutions, and international bodies on issues affecting Nigerian students abroad."
+      },
+      {
+        "id": "m3",
+        "title": "Welfare",
+        "description": "Providing support, resources, and community for Nigerian students navigating life in foreign countries."
+      },
+      {
+        "id": "m4",
+        "title": "Development",
+        "description": "Channelling diaspora talent and resources toward Nigeria's national development goals."
+      }
+    ]
+  },
+  "overview": "NANS Diaspora (National Association of Nigerian Students – Diaspora) is the umbrella body for all Nigerian student associations operating outside Nigeria. With chapters spanning over 40 countries and a membership of more than 50,000 students, we are one of the largest student diaspora organisations in the world. We work closely with the Nigerian government, international institutions, and partner organisations to advance the interests of our members and contribute to Nigeria's future."
+}

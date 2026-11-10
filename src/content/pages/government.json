@@ -1,0 +1,38 @@
+{
+  "hero": {
+    "title": "Government",
+    "subtitle": "Meet the elected leaders and representatives of NANS Diaspora."
+  },
+  "subpages": [
+    {
+      "id": "g1",
+      "title": "Chapter Presidents",
+      "path": "/government/chapter-presidents",
+      "description": "Elected presidents of NANS Diaspora chapters worldwide."
+    },
+    {
+      "id": "g2",
+      "title": "Executives",
+      "path": "/government/executives",
+      "description": "The National Executive Council leading NANS Diaspora."
+    },
+    {
+      "id": "g3",
+      "title": "Pioneers",
+      "path": "/government/pioneers",
+      "description": "Founding members and past leaders who shaped NANS Diaspora."
+    },
+    {
+      "id": "g4",
+      "title": "Senate",
+      "path": "/government/senate",
+      "description": "The legislative body of NANS Diaspora."
+    },
+    {
+      "id": "g5",
+      "title": "Hall of Fame",
+      "path": "/government/hall-of-fame",
+      "description": "Honouring distinguished individuals who have made an outstanding impact on Nigerian students in the diaspora."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title": "Contact Us",
+    "subtitle": "Reach out to NANS Diaspora — we're here to help, partner, and connect."
+  },
+  "contacts": [
+    {
+      "id": "c1",
+      "role": "General Enquiries",
+      "email": "info@nansdiaspora.org"
+    },
+    {
+      "id": "c2",
+      "role": "Membership & Chapters",
+      "email": "membership@nansdiaspora.org"
+    },
+    {
+      "id": "c3",
+      "role": "Media & Press",
+      "email": "media@nansdiaspora.org"
+    },
+    {
+      "id": "c4",
+      "role": "Partnerships & Sponsorship",
+      "email": "partnerships@nansdiaspora.org"
+    }
+  ],
+  "social": {
+    "twitter": "https://twitter.com/nansdiaspora",
+    "facebook": "https://facebook.com/nansdiaspora",
+    "instagram": "https://instagram.com/nansdiaspora"
+  },
+  "sponsorship": {
+    "title": "Partnership & Sponsorship Enquiries",
+    "description": "NANS Diaspora offers a range of partnership and sponsorship opportunities for organisations that share our commitment to Nigerian student excellence. From summit sponsorship to scholarship partnerships, we welcome conversations with aligned institutions and businesses."
+  }
+}

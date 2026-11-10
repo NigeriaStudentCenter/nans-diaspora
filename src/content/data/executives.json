@@ -1,0 +1,56 @@
+[
+  {
+    "id": "ex1",
+    "name": "Engr Nuhu Aminu Nuhu",
+    "title": "NANS Diaspora President",
+    "chapter": "NANS Diaspora National",
+    "region": "National",
+    "swayUrl": "https://sway.cloud.microsoft/EClkAXFk3tre0UiY",
+    "photo": "/airo-assets/images/government/executives/president-nuhu-aminu-nuhu"
+  },
+  {
+    "id": "ex2",
+    "name": "Amaka Nwachukwu",
+    "title": "Vice President",
+    "chapter": "NANS Diaspora National",
+    "region": "National",
+    "swayUrl": "https://sway.office.com/exec2",
+    "photo": ""
+  },
+  {
+    "id": "ex3",
+    "name": "Babatunde Lawal",
+    "title": "Secretary General",
+    "chapter": "NANS Diaspora National",
+    "region": "National",
+    "swayUrl": "https://sway.office.com/exec3",
+    "photo": ""
+  },
+  {
+    "id": "ex4",
+    "name": "Ifeoma Okeke",
+    "title": "Financial Secretary",
+    "chapter": "NANS Diaspora National",
+    "region": "National",
+    "swayUrl": "https://sway.office.com/exec4",
+    "photo": ""
+  },
+  {
+    "id": "ex5",
+    "name": "Seun Adeyinka",
+    "title": "Director of Welfare",
+    "chapter": "NANS Diaspora National",
+    "region": "National",
+    "swayUrl": "https://sway.office.com/exec5",
+    "photo": ""
+  },
+  {
+    "id": "ex6",
+    "name": "Kelechi Onyekwere",
+    "title": "Director of Academics",
+    "chapter": "NANS Diaspora National",
+    "region": "National",
+    "swayUrl": "https://sway.office.com/exec6",
+    "photo": ""
+  }
+]

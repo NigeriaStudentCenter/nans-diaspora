@@ -1,0 +1,56 @@
+[
+  {
+    "id": "se1",
+    "name": "Sen. Obiora Nwosu",
+    "title": "Senate President",
+    "chapter": "NANS Diaspora Senate",
+    "region": "National",
+    "swayUrl": "https://sway.office.com/senate1",
+    "photo": ""
+  },
+  {
+    "id": "se2",
+    "name": "Sen. Aisha Bello",
+    "title": "Deputy Senate President",
+    "chapter": "NANS Diaspora Senate",
+    "region": "National",
+    "swayUrl": "https://sway.office.com/senate2",
+    "photo": ""
+  },
+  {
+    "id": "se3",
+    "name": "Sen. Tunde Olatunji",
+    "title": "Senate Majority Leader",
+    "chapter": "Europe Zone",
+    "region": "Europe",
+    "swayUrl": "https://sway.office.com/senate3",
+    "photo": ""
+  },
+  {
+    "id": "se4",
+    "name": "Sen. Chiamaka Obi",
+    "title": "Senator",
+    "chapter": "North America Zone",
+    "region": "North America",
+    "swayUrl": "https://sway.office.com/senate4",
+    "photo": ""
+  },
+  {
+    "id": "se5",
+    "name": "Sen. Yusuf Garba",
+    "title": "Senator",
+    "chapter": "Africa Zone",
+    "region": "Africa",
+    "swayUrl": "https://sway.office.com/senate5",
+    "photo": ""
+  },
+  {
+    "id": "se6",
+    "name": "Sen. Adaeze Nwofor",
+    "title": "Senator",
+    "chapter": "Asia-Pacific Zone",
+    "region": "Asia-Pacific",
+    "swayUrl": "https://sway.office.com/senate6",
+    "photo": ""
+  }
+]

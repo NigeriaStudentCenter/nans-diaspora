@@ -1,0 +1,480 @@
+{
+  "pages/home/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2266994352",
+    "searchQuery": "Nigerian students diaspora global community celebration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1772840333",
+      "https://img1.wsimg.com/isteam/getty/1364635405"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T05:55:09.037Z",
+    "lastUpdated": "2026-07-26T05:30:50.323Z",
+    "gettyId": "2266994352",
+    "alternativeGettyIds": [
+      "1772840333",
+      "1364635405"
+    ],
+    "requestedSize": {
+      "width": 1920,
+      "height": 1080,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "compositions": "wide_shot"
+  },
+  "pages/home/story-hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/528424461",
+    "searchQuery": "African diaspora cultural portrait woman traditional attire editorial",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2177328685",
+      "https://img1.wsimg.com/isteam/getty/2210411733",
+      "https://img1.wsimg.com/isteam/getty/2157124402",
+      "https://img1.wsimg.com/isteam/getty/1453735747"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T05:55:10.059Z",
+    "lastUpdated": "2026-07-22T05:55:10.059Z",
+    "gettyId": "528424461",
+    "alternativeGettyIds": [
+      "2177328685",
+      "2210411733",
+      "2157124402",
+      "1453735747"
+    ],
+    "requestedSize": {
+      "width": 900,
+      "height": 600,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm,dramatic",
+    "numberOfPeople": "one"
+  },
+  "pages/home/story-card-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2217345913",
+    "searchQuery": "cultural heritage storytelling community elders wisdom portrait",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/93386928",
+      "https://img1.wsimg.com/isteam/getty/1389718743",
+      "https://img1.wsimg.com/isteam/getty/2242588412",
+      "https://img1.wsimg.com/isteam/getty/1576432305"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T05:55:11.026Z",
+    "lastUpdated": "2026-07-22T05:55:11.026Z",
+    "gettyId": "2217345913",
+    "alternativeGettyIds": [
+      "93386928",
+      "1389718743",
+      "2242588412",
+      "1576432305"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm",
+    "numberOfPeople": "one,two"
+  },
+  "pages/home/story-card-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2253606061",
+    "searchQuery": "diaspora music dance celebration cultural festival vibrant",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2154230241",
+      "https://img1.wsimg.com/isteam/getty/1731677532",
+      "https://img1.wsimg.com/isteam/getty/1395552867",
+      "https://img1.wsimg.com/isteam/getty/186855333"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T05:55:12.779Z",
+    "lastUpdated": "2026-07-22T05:55:12.779Z",
+    "gettyId": "2253606061",
+    "alternativeGettyIds": [
+      "2154230241",
+      "1731677532",
+      "1395552867",
+      "186855333"
+    ],
+    "requestedSize": {
+      "width": 600,
+      "height": 400,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "vivid,warm",
+    "numberOfPeople": "group"
+  },
+  "pages/home/community-portrait": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/92081621",
+    "searchQuery": "community leader portrait confident cultural identity diaspora",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-07-22T05:55:14.455Z",
+    "lastUpdated": "2026-07-22T05:55:14.455Z",
+    "gettyId": "92081621",
+    "requestedSize": {
+      "width": 700,
+      "height": 900,
+      "fit": "cover"
+    },
+    "orientations": "vertical",
+    "compositions": "portrait",
+    "moods": "warm,bold",
+    "numberOfPeople": "one"
+  },
+  "pages/home/join-cta": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1708662637",
+    "searchQuery": "diverse community members gathering connection belonging warm light",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2181649633",
+      "https://img1.wsimg.com/isteam/getty/2161872069",
+      "https://img1.wsimg.com/isteam/getty/1370642449",
+      "https://img1.wsimg.com/isteam/getty/1438332242"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T05:55:16.002Z",
+    "lastUpdated": "2026-07-22T05:55:16.002Z",
+    "gettyId": "1708662637",
+    "alternativeGettyIds": [
+      "2181649633",
+      "2161872069",
+      "1370642449",
+      "1438332242"
+    ],
+    "requestedSize": {
+      "width": 900,
+      "height": 700,
+      "fit": "cover"
+    },
+    "orientations": "horizontal",
+    "moods": "warm",
+    "numberOfPeople": "group"
+  },
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-transparent-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png",
+    "searchQuery": "An official institutional wordmark for \"NANS Diaspora\" — the acronym \"NANS\" in b",
+    "alternatives": [],
+    "solidUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-transparent-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-original-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-transparent-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-original-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+    },
+    "mockupUrlMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-transparent-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-transparent-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png",
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-transparent-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-transparent-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+    },
+    "landscapeMockupUrlMap": {},
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-transparent-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png": {
+        "sessionId": "df3a80a8-2f87-4b49-ab04-14069c4e9ec1",
+        "logoId": "c42cd6a0-a373-4f55-a20e-d67cd0d84909",
+        "groupId": "25e8f9cd-2036-4711-8f98-cbec798d5a07"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-transparent-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png": {
+        "sessionId": "db2f8345-109a-48c6-99b3-f10373b775f5",
+        "logoId": "0d2ed111-ace1-453d-8d06-0b837cf4f6e8",
+        "groupId": "ed6f36d2-da31-458e-9ad7-e1d7145f79c0"
+      }
+    },
+    "productMockupsMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-transparent-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-mockup-mug-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-mockup-card-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-mockup-tshirt-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/df3a80a8-2f87-4b49-ab04-14069c4e9ec1/horizontal-mockup-box-c42cd6a0-a373-4f55-a20e-d67cd0d84909/logo-logo.png"
+        }
+      ],
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-transparent-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png": [
+        {
+          "type": "mug",
+          "label": "Mug",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-mug-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+        },
+        {
+          "type": "card",
+          "label": "Business Card",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-card-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+        },
+        {
+          "type": "tshirt",
+          "label": "T-Shirt",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-tshirt-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+        },
+        {
+          "type": "box",
+          "label": "Packaging",
+          "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-box-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+        }
+      ]
+    },
+    "productMockups": [
+      {
+        "type": "mug",
+        "label": "Mug",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-mug-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+      },
+      {
+        "type": "card",
+        "label": "Business Card",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-card-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+      },
+      {
+        "type": "tshirt",
+        "label": "T-Shirt",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-tshirt-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+      },
+      {
+        "type": "box",
+        "label": "Packaging",
+        "url": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-mockup-box-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png"
+      }
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T05:56:01.984Z",
+    "lastUpdated": "2026-07-22T06:07:15.849Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#FFFFFF",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/db2f8345-109a-48c6-99b3-f10373b775f5/horizontal-transparent-0d2ed111-ace1-453d-8d06-0b837cf4f6e8/logo-logo.png",
+    "logoGroupId": "ed6f36d2-da31-458e-9ad7-e1d7145f79c0"
+  },
+  "logo/favicon": {
+    "mediaType": "logo",
+    "currentUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/8cfd1330-97cb-46ab-ba1c-fac7fe8ed56a/favicon-transparent-8c15ffc4-6443-4143-8fb8-e24635154b51/logo-logo.png",
+    "searchQuery": "favicon",
+    "alternatives": [],
+    "logoSourceMap": {
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/17f8e052-c574-4cd6-a3a9-d4648ebc8676/favicon-transparent-8a9c4a54-bca3-4701-bf81-758e735f4ccb/logo-logo.png": {
+        "sessionId": "17f8e052-c574-4cd6-a3a9-d4648ebc8676",
+        "logoId": "8a9c4a54-bca3-4701-bf81-758e735f4ccb",
+        "groupId": "25e8f9cd-2036-4711-8f98-cbec798d5a07"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/90dbc2b2-2c9b-4884-bdd0-748ad715db51/favicon-transparent-4fc67b39-c7ad-4e03-a665-764cbcae915c/logo-logo.png": {
+        "sessionId": "90dbc2b2-2c9b-4884-bdd0-748ad715db51",
+        "logoId": "4fc67b39-c7ad-4e03-a665-764cbcae915c",
+        "groupId": "ed6f36d2-da31-458e-9ad7-e1d7145f79c0"
+      },
+      "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/8cfd1330-97cb-46ab-ba1c-fac7fe8ed56a/favicon-transparent-8c15ffc4-6443-4143-8fb8-e24635154b51/logo-logo.png": {
+        "sessionId": "8cfd1330-97cb-46ab-ba1c-fac7fe8ed56a",
+        "logoId": "8c15ffc4-6443-4143-8fb8-e24635154b51",
+        "groupId": "ed6f36d2-da31-458e-9ad7-e1d7145f79c0"
+      }
+    },
+    "logoGroupId": "ed6f36d2-da31-458e-9ad7-e1d7145f79c0",
+    "userModified": false,
+    "createdAt": "2026-07-22T05:56:33.048Z",
+    "lastUpdated": "2026-07-22T06:15:21.136Z",
+    "surfaceMode": "light",
+    "generatedForSurfaceColor": "#FFFFFF",
+    "lightSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/8cfd1330-97cb-46ab-ba1c-fac7fe8ed56a/favicon-transparent-8c15ffc4-6443-4143-8fb8-e24635154b51/logo-logo.png",
+    "darkSurfaceUrl": "https://isteam.wsimg.com/genai-assistant/logoagent/customer/cddd3b76-3f5b-4813-b4f2-1beb1913f03d/session/17f8e052-c574-4cd6-a3a9-d4648ebc8676/favicon-transparent-8a9c4a54-bca3-4701-bf81-758e735f4ccb/logo-logo.png"
+  },
+  "pages/home/initiative": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-home-initiative-6abc1d9d.jpg",
+    "searchQuery": "",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1562520057",
+      "https://img1.wsimg.com/isteam/getty/1441191131",
+      "https://img1.wsimg.com/isteam/getty/1498919044",
+      "https://img1.wsimg.com/isteam/getty/1163916653",
+      "https://img1.wsimg.com/isteam/getty/1770737798"
+    ],
+    "userModified": true,
+    "createdAt": "2026-07-22T06:06:21.918Z",
+    "lastUpdated": "2026-07-22T06:20:55.238Z",
+    "alternativeGettyIds": [
+      "1562520057",
+      "1441191131",
+      "1498919044",
+      "1163916653",
+      "1770737798"
+    ],
+    "orientations": "horizontal",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-home-initiative-6abc1d9d.jpg": "j65qd7mtbs_1784701240953_file_VXakTNCXd4.jpg"
+    },
+    "uploadContentHash": "810ec66f5a35b17d1d1594d0f8aa5214bdcc2c58e33db8a55dfa0a71a79b637e"
+  },
+  "pages/home/news-1": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2168908776",
+    "searchQuery": "Nigerian students university graduation ceremony",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1313809093",
+      "https://img1.wsimg.com/isteam/getty/1474378386"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T06:06:23.955Z",
+    "lastUpdated": "2026-07-26T05:30:49.981Z",
+    "gettyId": "2168908776",
+    "alternativeGettyIds": [
+      "1313809093",
+      "1474378386"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/news-2": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1847974699",
+    "searchQuery": "African students conference summit meeting",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1055419200",
+      "https://img1.wsimg.com/isteam/getty/2174623057"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T06:06:25.248Z",
+    "lastUpdated": "2026-07-26T05:30:51.223Z",
+    "gettyId": "1847974699",
+    "alternativeGettyIds": [
+      "1055419200",
+      "2174623057"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/home/news-3": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1678251491",
+    "searchQuery": "diaspora community youth leadership program",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1403940929",
+      "https://img1.wsimg.com/isteam/getty/1389700841"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T06:06:25.825Z",
+    "lastUpdated": "2026-07-26T05:30:52.225Z",
+    "gettyId": "1678251491",
+    "alternativeGettyIds": [
+      "1403940929",
+      "1389700841"
+    ],
+    "requestedSize": {
+      "width": 800,
+      "height": 500,
+      "fit": "cover"
+    },
+    "orientations": "horizontal"
+  },
+  "pages/about/hero": {
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1442212091",
+    "searchQuery": "diverse African students university library studying together",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2257061786",
+      "https://img1.wsimg.com/isteam/getty/2251747956",
+      "https://img1.wsimg.com/isteam/getty/1498725445"
+    ],
+    "userModified": false,
+    "createdAt": "2026-07-22T06:06:29.105Z",
+    "lastUpdated": "2026-07-22T06:14:38.484Z",
+    "gettyId": "1442212091",
+    "alternativeGettyIds": [
+      "2257061786",
+      "2251747956",
+      "1498725445"
+    ],
+    "orientations": "horizontal"
+  },
+  "government/executives/president-nuhu-aminu-nuhu": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/government-executives-president-nuhu-aminu-nuhu-6abc1d9d.jpg",
+    "searchQuery": "man wearing traditional african attire portrait",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T11:01:08.007Z",
+    "lastUpdated": "2026-09-06T11:01:08.007Z",
+    "uploadSources": {
+      "/airo-assets/uploads/government-executives-president-nuhu-aminu-nuhu-6abc1d9d.jpg": "j65qd7mtbs_1788692449035_file_-wnBxDDWn0.jpg"
+    },
+    "uploadContentHash": "810ec66f5a35b17d1d1594d0f8aa5214bdcc2c58e33db8a55dfa0a71a79b637e",
+    "caption": "man wearing traditional african attire portrait"
+  },
+  "government/pioneers/prof-opeoluwa-seun-ojekemi": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/government-pioneers-prof-opeoluwa-seun-ojekemi-529fb4d6.jpg",
+    "searchQuery": "man in white shirt portrait headshot",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-06T11:17:18.852Z",
+    "lastUpdated": "2026-09-06T11:17:18.852Z",
+    "uploadSources": {
+      "/airo-assets/uploads/government-pioneers-prof-opeoluwa-seun-ojekemi-529fb4d6.jpg": "j65qd7mtbs_1788693429253_file_i0IkVFqZwE.jpg"
+    },
+    "uploadContentHash": "67ba7318548491c26360c5d725594e1dfe18bfe3b9e6467681202ba499ced8b5",
+    "caption": "man in white shirt portrait headshot"
+  },
+  "pages/news-events/medical-dental-outreach": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-news-events-medical-dental-outreach-7fababbf.png",
+    "searchQuery": "healthcare worker administering oral vaccine to child",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-24T07:47:05.011Z",
+    "lastUpdated": "2026-09-24T07:47:05.011Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-news-events-medical-dental-outreach-7fababbf.png": "j65qd7mtbs_1790235995971_file_EdHuANvbhN.png"
+    },
+    "uploadContentHash": "e6f5cf80122a73724ec2b2b98733ca52f82fa3c5c6680f09e4c5511964bc5b6d",
+    "caption": "healthcare worker administering oral vaccine to child"
+  },
+  "pages/news-events/generalissimo-award-abike": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-news-events-generalissimo-award-abike-0998210f.png",
+    "searchQuery": "woman receiving award at formal event stage",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-24T07:48:45.705Z",
+    "lastUpdated": "2026-09-24T07:48:45.705Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-news-events-generalissimo-award-abike-0998210f.png": "j65qd7mtbs_1790236112725_file_FG_dlMWU_U.png"
+    },
+    "uploadContentHash": "1d584947f1543f8b5120adee2b74357c59d10d76838cf156dde3133f5bf72bbb",
+    "caption": "woman receiving award at formal event stage"
+  },
+  "pages/news-events/minister-of-education-engagement": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-news-events-minister-of-education-engagement-5efaff56.png",
+    "searchQuery": "group meeting in education conference room",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-09-24T07:54:07.234Z",
+    "lastUpdated": "2026-09-24T07:54:07.234Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-news-events-minister-of-education-engagement-5efaff56.png": "j65qd7mtbs_1790236436093_file_0-s8rbZVeM.png"
+    },
+    "uploadContentHash": "ed13bc8f49f862064f49bbc075d50a9d5243b5717233a09dd7cdb4daf216b37b",
+    "caption": "group meeting in education conference room"
+  }
+}

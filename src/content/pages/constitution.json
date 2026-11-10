@@ -1,0 +1,43 @@
+{
+  "title": "NANS Diaspora Constitution",
+  "subtitle": "The governing document of the National Association of Nigerian Students – Diaspora",
+  "lastAmended": "2024",
+  "sections": [
+    {
+      "id": "c1",
+      "number": "I",
+      "title": "Name and Identity",
+      "content": "This body shall be known as the National Association of Nigerian Students – Diaspora (NANS Diaspora), hereinafter referred to as 'the Association'."
+    },
+    {
+      "id": "c2",
+      "number": "II",
+      "title": "Objectives",
+      "content": "The objectives of the Association shall be to represent Nigerian students studying outside Nigeria; to promote academic excellence and cultural identity; to advocate for the welfare and rights of members; and to foster cooperation between Nigerian students globally."
+    },
+    {
+      "id": "c3",
+      "number": "III",
+      "title": "Membership",
+      "content": "Membership of the Association shall be open to all Nigerian students enrolled in accredited institutions outside Nigeria. Membership is conferred through registration with a recognised NANS Diaspora chapter in the student's country of study."
+    },
+    {
+      "id": "c4",
+      "number": "IV",
+      "title": "Governance Structure",
+      "content": "The Association shall be governed by the National Executive Council (NEC), the Senate, and the Council of Chapter Presidents. The NEC shall be the highest executive body, with the President as the Chief Executive Officer of the Association."
+    },
+    {
+      "id": "c5",
+      "number": "V",
+      "title": "Elections",
+      "content": "Elections to all executive positions shall be conducted in accordance with the Electoral Guidelines of the Association. All elections shall be free, fair, and transparent, supervised by the Electoral Committee."
+    },
+    {
+      "id": "c6",
+      "number": "VI",
+      "title": "Amendments",
+      "content": "Amendments to this Constitution may be proposed by any member of the Senate and shall require a two-thirds majority vote of the Senate to be adopted."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "hero": {
+    "headline": "The Voice of Nigerian Students in the Diaspora",
+    "subheading": "NANS Diaspora is the official body representing Nigerian students studying abroad — advocating, connecting, and empowering a generation of global leaders.",
+    "cta1": "Meet Our Leaders",
+    "cta2": "Join NANS Diaspora"
+  },
+  "stats": [
+    {
+      "id": "s1",
+      "value": "40+",
+      "label": "Countries"
+    },
+    {
+      "id": "s2",
+      "value": "120+",
+      "label": "Chapters"
+    },
+    {
+      "id": "s3",
+      "value": "50,000+",
+      "label": "Members"
+    },
+    {
+      "id": "s4",
+      "value": "Est. 1984",
+      "label": "Founded"
+    }
+  ],
+  "initiative": {
+    "label": "NANS Diaspora President",
+    "title": "Engr Nuhu Aminu Nuhu",
+    "description": "President of the National Association of Nigerian Students – Diaspora. Engr Nuhu Aminu Nuhu leads NANS Diaspora with a commitment to advocacy, unity, and empowering Nigerian students across the globe to achieve their full potential.",
+    "cta": "Meet Our Leaders",
+    "profileUrl": "https://sway.cloud.microsoft/EClkAXFk3tre0UiY",
+    "profileCta": "View Profile"
+  },
+  "news": {
+    "sectionLabel": "Latest News",
+    "items": [
+      {
+        "id": "n1",
+        "category": "Conference",
+        "title": "NANS Diaspora Annual Summit 2026 Announced",
+        "excerpt": "The flagship annual summit returns, bringing together chapter presidents and student leaders from across the globe.",
+        "date": "July 10, 2026"
+      },
+      {
+        "id": "n2",
+        "category": "Achievement",
+        "title": "NANS Diaspora Scholar Wins Prestigious International Award",
+        "excerpt": "A member of the NANS Diaspora UK chapter has been recognised for outstanding academic and community contributions.",
+        "date": "June 28, 2026"
+      },
+      {
+        "id": "n3",
+        "category": "Policy",
+        "title": "NANS Diaspora Submits Memorandum to Nigerian Senate",
+        "excerpt": "Our leadership formally presented recommendations on student welfare, dual citizenship, and diaspora engagement to the Nigerian Senate.",
+        "date": "June 15, 2026"
+      }
+    ]
+  },
+  "partners": {
+    "sectionLabel": "Partners & Affiliates",
+    "items": [
+      {
+        "id": "pt1",
+        "name": "Federal Ministry of Education, Nigeria"
+      },
+      {
+        "id": "pt2",
+        "name": "Nigerian Students Union, UK"
+      },
+      {
+        "id": "pt3",
+        "name": "African Students Union"
+      },
+      {
+        "id": "pt4",
+        "name": "NANS National"
+      },
+      {
+        "id": "pt5",
+        "name": "Nigerians in Diaspora Organisation"
+      },
+      {
+        "id": "pt6",
+        "name": "British School of Outdoor Education",
+        "url": "https://bsoedu.org/"
+      },
+      {
+        "id": "pt7",
+        "name": "Federal Ministry of Foreign Affairs Nigeria",
+        "url": "https://www.foreignaffairs.gov.ng/"
+      },
+      {
+        "id": "pt8",
+        "name": "Nigerians in Diaspora Commission (NIDCOM)",
+        "url": "https://nidcom.gov.ng/"
+      }
+    ]
+  }
+}
