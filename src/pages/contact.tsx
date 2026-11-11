@@ -47,7 +47,7 @@ export default function ContactPage() {
 
     try {
       // Static hosting (GitHub Pages) has no /api, so submissions go to FormSubmit.
-      const res = await fetch('https://formsubmit.co/ajax/info@nansdiaspora.org', {
+      const res = await fetch('https://formsubmit.co/ajax/president@nansdiasporia.org', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json', Accept: 'application/json' },
         body: JSON.stringify({
@@ -149,10 +149,10 @@ export default function ContactPage() {
                 <h2 className="font-heading font-bold text-lg text-foreground mb-3">{contact.sponsorship.title}</h2>
                 <p className="text-muted-foreground text-sm leading-relaxed mb-4">{contact.sponsorship.description}</p>
                 <a
-                  href="mailto:partnerships@nansdiaspora.org"
+                  href="mailto:president@nansdiasporia.org"
                   className="text-sm font-semibold text-primary hover:underline"
                 >
-                  partnerships@nansdiaspora.org
+                  president@nansdiasporia.org
                 </a>
               </motion.div>
             </motion.div>

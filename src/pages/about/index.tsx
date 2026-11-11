@@ -45,7 +45,7 @@ export default function AboutPage() {
         {/* Hero */}
         <section className="relative bg-primary text-primary-foreground py-20 md:py-28 px-6 md:px-10 overflow-hidden">
           <div className="absolute inset-0 pointer-events-none">
-            <img src="/airo-assets/images/pages/about/hero" alt="" aria-hidden="true" className="w-full h-full object-cover opacity-20" loading="eager" width={1200} height={600} />
+            <img src="/airo-assets/images/pages/about/hero.jpg" alt="" aria-hidden="true" className="w-full h-full object-cover opacity-20" loading="eager" width={1200} height={600} />
           </div>
           <div className="relative z-10 max-w-7xl mx-auto">
             <p className="text-xs font-semibold tracking-widest uppercase text-primary-foreground/70 mb-3">About Us</p>

@@ -48,7 +48,7 @@ export default function Header() {
       {/* Top bar */}
       <div className="bg-primary text-primary-foreground text-xs py-1.5 px-6 md:px-10 hidden md:flex items-center justify-between">
         <span className="font-medium">National Association of Nigerian Students – Diaspora</span>
-        <span>info@nansdiaspora.org</span>
+        <span>president@nansdiasporia.org</span>
       </div>
 
       {/* Main nav */}

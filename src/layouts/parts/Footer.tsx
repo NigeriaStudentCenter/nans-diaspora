@@ -52,7 +52,7 @@ const socialLinks = [{
 }, {
   icon: Mail,
   label: 'Email',
-  href: 'mailto:info@nansdiaspora.org'
+  href: 'mailto:president@nansdiasporia.org'
 }];
 export default function Footer() {
   return <footer className="bg-foreground text-background">
@@ -97,9 +97,7 @@ export default function Footer() {
               Contact
             </h3>
             <ul className="flex flex-col gap-2 text-sm text-background/60">
-              <li>info@nansdiaspora.org</li>
-              <li>membership@nansdiaspora.org</li>
-              <li>media@nansdiaspora.org</li>
+              <li>president@nansdiasporia.org</li>
             </ul>
           </div>
         </div>

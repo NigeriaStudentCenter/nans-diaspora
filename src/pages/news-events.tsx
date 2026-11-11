@@ -25,7 +25,7 @@ const stagger = {
     }
   }
 };
-const articleImages = ['/airo-assets/images/pages/news-events/medical-dental-outreach', '/airo-assets/images/pages/news-events/generalissimo-award-abike', '/airo-assets/images/pages/news-events/minister-of-education-engagement', '/airo-assets/images/pages/home/news-1', '/airo-assets/images/pages/home/news-2', '/airo-assets/images/pages/home/news-3', '/airo-assets/images/pages/home/initiative', '/airo-assets/images/pages/home/hero', '/airo-assets/images/pages/about/hero'];
+const articleImages = ['/airo-assets/images/pages/news-events/medical-dental-outreach.png', '/airo-assets/images/pages/news-events/generalissimo-award-abike.png', '/airo-assets/images/pages/news-events/minister-of-education-engagement.png', '/airo-assets/images/pages/home/news-1.jpg', '/airo-assets/images/pages/home/news-2.jpg', '/airo-assets/images/pages/home/news-3.jpg', '/airo-assets/images/pages/home/initiative.jpg', '/airo-assets/images/pages/home/hero.jpg', '/airo-assets/images/pages/about/hero.jpg'];
 export default function NewsEventsPage() {
   const site = 'https://nansdiasporia.org';
   const title = 'News & Events — NANS Diaspora';
@@ -61,7 +61,7 @@ export default function NewsEventsPage() {
             </div>
             <div className="bg-background border border-border rounded-lg overflow-hidden grid grid-cols-1 lg:grid-cols-2">
               <div className="overflow-hidden">
-                <img src="/airo-assets/images/pages/home/initiative" alt={news_events.featured.title} className="w-full h-full object-cover min-h-[240px]" loading="lazy" width={900} height={600} />
+                <img src="/airo-assets/images/pages/home/initiative.jpg" alt={news_events.featured.title} className="w-full h-full object-cover min-h-[240px]" loading="lazy" width={900} height={600} />
               </div>
               <div className="p-8 flex flex-col justify-center">
                 <span className="inline-block text-xs font-bold uppercase tracking-widest px-2 py-0.5 mb-4 w-fit" style={{

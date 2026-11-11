@@ -25,7 +25,7 @@ const stagger = {
     }
   }
 };
-const newsImages = ['/airo-assets/images/pages/home/news-1', '/airo-assets/images/pages/home/news-2', '/airo-assets/images/pages/home/news-3'];
+const newsImages = ['/airo-assets/images/pages/home/news-1.jpg', '/airo-assets/images/pages/home/news-2.jpg', '/airo-assets/images/pages/home/news-3.jpg'];
 export default function HomePage() {
   const site = 'https://nansdiasporia.org';
   const title = "NANS Diaspora — The Voice of Nigerian Students Abroad";
@@ -75,7 +75,7 @@ export default function HomePage() {
         {/* ── HERO ── */}
         <section className="relative min-h-[85vh] flex items-center overflow-hidden">
           <div className="absolute inset-0">
-            <img src="/airo-assets/images/pages/home/hero" alt="Nigerian students abroad" className="w-full h-full object-cover" loading="eager" fetchPriority="high" width={1920} height={1080} />
+            <img src="/airo-assets/images/pages/home/hero.jpg" alt="Nigerian students abroad" className="w-full h-full object-cover" loading="eager" fetchPriority="high" width={1920} height={1080} />
             <div className="absolute inset-0 pointer-events-none" style={{
             background: 'linear-gradient(105deg, rgba(0,60,0,0.88) 0%, rgba(0,40,0,0.7) 50%, rgba(0,0,0,0.4) 100%)'
           }} />
@@ -144,7 +144,7 @@ export default function HomePage() {
               background: 'hsl(var(--primary) / 0.06)'
             }} />
               <div className="relative z-10 w-full max-w-sm mx-auto">
-                <img src="/airo-assets/images/pages/home/initiative" alt="Engr Nuhu Aminu Nuhu — NANS Diaspora President" className="w-full object-cover object-top rounded-lg shadow-xl" style={{
+                <img src="/airo-assets/images/pages/home/initiative.jpg" alt="Engr Nuhu Aminu Nuhu — NANS Diaspora President" className="w-full object-cover object-top rounded-lg shadow-xl" style={{
                 aspectRatio: '3/4',
                 objectPosition: 'top center'
               }} loading="lazy" width={600} height={800} />

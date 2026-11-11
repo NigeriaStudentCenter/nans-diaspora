@@ -7,22 +7,22 @@
     {
       "id": "c1",
       "role": "General Enquiries",
-      "email": "info@nansdiaspora.org"
+      "email": "president@nansdiasporia.org"
     },
     {
       "id": "c2",
       "role": "Membership & Chapters",
-      "email": "membership@nansdiaspora.org"
+      "email": "president@nansdiasporia.org"
     },
     {
       "id": "c3",
       "role": "Media & Press",
-      "email": "media@nansdiaspora.org"
+      "email": "president@nansdiasporia.org"
     },
     {
       "id": "c4",
       "role": "Partnerships & Sponsorship",
-      "email": "partnerships@nansdiaspora.org"
+      "email": "president@nansdiasporia.org"
     }
   ],
   "social": {
