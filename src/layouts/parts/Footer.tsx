@@ -26,6 +26,9 @@ const footerLinks = [{
   }, {
     label: 'Senate',
     to: '/government/senate'
+  }, {
+    label: 'Hall of Fame',
+    to: '/government/hall-of-fame'
   }]
 }, {
   heading: 'Connect',
